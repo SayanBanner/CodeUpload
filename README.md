@@ -1,4 +1,4 @@
-Hcaktoberfest 2022
+Hacktoberfest 2022
 PARTICIPATION
 Details
 Hacktoberfest is open to everyone in our global community. Whether you’re a seasoned contributor or looking for projects to contribute to for the first time, you’re welcome to participate.
