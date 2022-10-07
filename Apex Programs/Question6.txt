@@ -1,6 +1,0 @@
-public class DeleteOpportuity {
-    public static void delOpp() {
-        list<opportunity>oppList = [SELECT Id FROM opportunity WHERE CloseDate<Today];
-		delete opplist;
-    }
-}
